@@ -1,0 +1,20 @@
+QPushButton#Reply_pushButton
+{
+    background-color: none;
+    border: none;
+}
+
+QLabel
+{
+    color: rgb(233, 233, 233);
+}
+
+QLabel#LastMessageDate_Label
+{
+    color: rgb(104, 109, 118);
+}
+
+QLabel#LastMessege_Label
+{
+    color: rgb(138, 143, 154);
+}
